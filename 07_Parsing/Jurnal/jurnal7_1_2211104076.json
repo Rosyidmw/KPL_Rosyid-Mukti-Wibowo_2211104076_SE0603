@@ -1,0 +1,15 @@
+{
+   "firstName": "Rosyid",
+   "lastName": "Wibowo",
+   "gender": "male",
+   "age": 21,
+   "address": {
+       "streetAddress": "Kalibagor",
+       "city": "Banyumas",
+       "state": "Central Java"
+   },
+   "courses": [
+       { "code": "CCK2KAB4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CCK2LAB3", "name": "Kecerdasan Buatan" }
+   ]
+}
