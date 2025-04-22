@@ -1,0 +1,32 @@
+{
+  "members" : [
+    {
+       "firstName": "Afif",
+       "lastName": "Ramadhani",
+       "gender": "male",
+       "age": 21,
+       "nim": "2211104066"
+    },
+    {
+       "firstName": "Kholil",
+       "lastName": "Prasetyo",
+       "gender": "male",
+       "age": 21,
+       "nim": "2211104071"
+    },
+    {
+       "firstName": "Rosyid",
+       "lastName": "Wibowo",
+       "gender": "male",
+       "age": 21,
+       "nim": "2211104076"
+    },
+    {
+      "firstName": "Adhitya",
+      "lastName": "Al Rasyid",
+      "gender": "male",
+      "age": 21,
+      "nim": "2211104089"
+   }
+  ]
+}
