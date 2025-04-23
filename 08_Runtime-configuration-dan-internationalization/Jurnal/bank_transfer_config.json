@@ -1,0 +1,14 @@
+{
+    "lang": "id",
+    "transfer": {
+      "threshold": 10000000,
+      "low_fee": 6500,
+      "high_fee": 15000
+    },
+    "methods": ["BI FAST", "Mobile Banking", "Internet Banking"],
+    "confirmation": {
+      "en": "yes",
+      "id": "ya"
+    }
+  }
+  
