@@ -29,7 +29,7 @@ class CovidConfig {
 
   ubahSatuan() {
     if (this.config.satuan_suhu === 'celcius') {
-      this.config.satuan_suhu = 'fahrenheit';
+      this.config.satuan_suhu = 'celcius';
     } else {
       this.config.satuan_suhu = 'celcius';
     }
